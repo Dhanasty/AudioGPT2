@@ -1,5 +1,5 @@
 import streamlit as st
-from st_audiorec import st_audiorec
+
 import whisper
 from audiorecorder import audiorecorder
 
