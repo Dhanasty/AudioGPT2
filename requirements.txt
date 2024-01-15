@@ -3,3 +3,4 @@ langchain
 streamlit
 whisper
 audiorecorder
+pyaudio
