@@ -1,6 +1,5 @@
 openai
 langchain
 streamlit
-os
 whisper
 audiorecorder
